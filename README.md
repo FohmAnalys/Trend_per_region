@@ -1,5 +1,5 @@
 # Trend_per_region
-Smoothed daily incidence and trend the past 21 days
+Smoothed daily incidence and trend the past 21 days.
 
 R-code for the re-occuring report with name "Trendanalyser per region" found here:
 https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
